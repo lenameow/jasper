@@ -4,17 +4,17 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Moonwalker'
+description: "Lena's Playground"
 
-short_url: 'jekyller.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'lenameow.github.io'
+google_analytics: UA-133293601-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
+username: lenameow
+repo: lenameow.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://jekyller.github.io/jasper/
-source_url:  https://github.com/jekyller/jasper/
+relative_source: ../lenameow.github.io/
+destination: ../lenameow.github.io-pages/
+production_url:  https://lenameow.github.io/
+source_url:  https://github.com/lenameow/lenameow.github.io/
 
 exclude:
   - README.md

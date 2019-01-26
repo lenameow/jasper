@@ -1,8 +1,8 @@
 # OS X
 .DS_Store
+vendor
 
 # Jekyll build
-/_site/
 .jekyll-metadata
 #Gemfile.lock
 
