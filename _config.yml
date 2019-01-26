@@ -48,9 +48,9 @@ lsi: false
 username: lenameow
 repo: lenameow.github.io
 branch: master
-relative_source: ../lenameow.github.io/
-destination: ../lenameow.github.io/_site/
-production_url:  https://lenameow.github.io/
+relative_source: ../lenameow.github.io/lenameow/
+destination: ../lenameow.github.io/lenameow-pages/
+production_url:  https://lenameow.github.io/lenameow
 source_url:  https://github.com/lenameow/lenameow.github.io/
 
 exclude:
