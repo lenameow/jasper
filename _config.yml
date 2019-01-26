@@ -49,7 +49,7 @@ username: lenameow
 repo: lenameow.github.io
 branch: master
 relative_source: ../lenameow.github.io/
-destination: ../lenameow.github.io-pages/
+destination: ../lenameow.github.io/_site/
 production_url:  https://lenameow.github.io/
 source_url:  https://github.com/lenameow/lenameow.github.io/
 

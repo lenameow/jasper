@@ -11,6 +11,7 @@ author: Lena
 categories: codes
 ---
 
+<br>
 Print column titles, first few values, and null value counts
 
 ```python
